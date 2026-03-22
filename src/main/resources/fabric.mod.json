@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "oyvey",
-  "icon": "icon.png",
+  "icon": "assets/oyvey/icon.png",
   "version": "${version}",
   "name": "oyvey-ported",
   "description": "free and opensource client base",
